@@ -1,5 +1,5 @@
 #load file
-home <- read.csv("c:/users/alex/desktop/R/exercise data/House Sales in King County, USA/kc_house_data.csv", header = T)
+home <- read.csv(".../input/kc_house_data.csv", header = T)
 
 #load libraries
 library(dplyr)
